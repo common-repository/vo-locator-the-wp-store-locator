@@ -1,0 +1,521 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Name of Listing"
+msgstr "上市名称"
+
+msgid "Add Listing"
+msgstr "添加列表"
+
+msgid "Address (Street - Line1)"
+msgstr "地址（街道 - 一号线）"
+
+msgid "Address (Street - Line2 - optional)"
+msgstr "地址（街道 - 两线 - 可选）"
+
+msgid "City, State Zip"
+msgstr "市，州，邮编"
+
+msgid "Address"
+msgstr "住址"
+
+msgid "Street - Line1"
+msgstr "街 - 一号线"
+
+msgid "Street - Line 2 - optional"
+msgstr "街 - 两线 - 可选"
+
+msgid "City"
+msgstr "都市"
+
+msgid "State"
+msgstr "态"
+
+msgid "Zip"
+msgstr "邮编"
+
+msgid "Share Address Publicly"
+msgstr "分享地址公开"
+
+msgid "Additional Information"
+msgstr "附加信息"
+
+msgid "Description"
+msgstr "描写"
+
+msgid "URL"
+msgstr "网址"
+
+msgid "Phone"
+msgstr "打电话"
+
+msgid "Fax"
+msgstr "传真"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Image Upload"
+msgstr "图片上传"
+
+msgid "Hours"
+msgstr "营业时间"
+
+msgid ""
+"Default Map Center <small>(Set one profile as your default map center to center the map on this location when it first loads. If no default is set, "
+"the first location will be used as the default.)"
+msgstr "默认的地图中心<小>（设置一个配置文件作为默认的地图中心，围绕该位置首次加载时，如果没有设置缺省值，第一位置将被用作默认的地图。）"
+
+msgid "Locations"
+msgstr "地点"
+
+msgid "Load More"
+msgstr "装载更多"
+
+msgid "Go!"
+msgstr "走！"
+
+msgid "Show Map"
+msgstr "显示地图"
+
+msgid "Current Location"
+msgstr "当前位置"
+
+msgid "This will enable showing Map with listing"
+msgstr "这将使显示与上市地图"
+
+msgid "Enable Current Location Lookup on Load (Default Center)"
+msgstr "启用负载电流位置查找（默认中心）"
+
+msgid "Search Box Heading Text"
+msgstr "搜索框标题文本"
+
+msgid "Listing Highlight Color"
+msgstr "清单高亮颜色"
+
+msgid "Listing Text Color"
+msgstr "清单文字颜色"
+
+msgid "Listing background Color"
+msgstr "清单背景颜色"
+
+msgid "Listings"
+msgstr "房源"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删"
+
+msgid "Delete Selected Listings"
+msgstr "删除所选房源"
+
+msgid "Documentation"
+msgstr "文件"
+
+msgid "To use this plugin within pages and posts you simply will have to insert this shortcode"
+msgstr "要使用这个插件在网页和帖子，你只需将要插入这个简"
+
+msgid "within your post/page content"
+msgstr "在您的文章/网页内容"
+
+msgid "If you need to use this plugin in php code you will need to call php function as belows:"
+msgstr "如果你需要使用这个插件在PHP代码，你将需要调用PHP函数为初级讲座："
+
+msgid "Or else you can do as follows:"
+msgstr "否则，你可以做如下："
+
+msgid "For more information please visit our website:"
+msgstr "欲了解更多信息，请访问我们的网站："
+
+msgid "Click Here"
+msgstr "点击这里"
+
+msgid "Win VO Locator PRO"
+msgstr "赢VO定位器PRO"
+
+msgid "Ask for Support"
+msgstr "要求支持"
+
+msgid "Review Us"
+msgstr "回顾我们"
+
+msgid "Distance in (Mi/Km)"
+msgstr "距离（英里/公里）"
+
+msgid "Successful Addition"
+msgstr "成功添加"
+
+msgid "Unsucessful addition due to security check failure"
+msgstr "不成功的除了由于安全检查失败"
+
+msgid "Kilometers"
+msgstr "公里"
+
+msgid "Miles"
+msgstr "万里"
+
+msgid "Actions"
+msgstr "行动"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "命名"
+
+msgid "Street"
+msgstr "街"
+
+msgid "Street2"
+msgstr "街2号"
+
+msgid "Search"
+msgstr "搜"
+
+msgid "Edit Listing"
+msgstr "编辑清单"
+
+msgid "We have added regions within the settings page of the plugin. Please take a look at your settings for selecting appropriate region and save it."
+msgstr "我们已添加插件的设置页面内的区域。请选择适当的地区看一看您的设置并保存它。"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "VO Locator Settings"
+msgstr "VO定位器设置"
+
+msgid "Learn more about Vital Organizer"
+msgstr "了解更多关于生命的组织者"
+
+msgid "Enter address or zipcode"
+msgstr "输入地址或邮编"
+
+msgid "Need More Customizations?"
+msgstr "需要更多的自定义？"
+
+msgid "Import/Export Listings"
+msgstr "导入/导出房源"
+
+msgid "Full Map Customization with Drag and Drop Interface"
+msgstr "全图以定制的拖放界面"
+
+msgid "Too Many Markers! Get Cleaner Map with Marker Clusters with Improved Performance"
+msgstr "太多的标记！获取清洁地图与性能改进标记集群"
+
+msgid "Grab Your PRO ADDON Now"
+msgstr "抓住你的PRO ADDON现在"
+
+msgid "Update Multiple Listing Co-Ordinates in a Single Click"
+msgstr "更新多重上市坐标在一个单一的点击"
+
+msgid "Need To Import? Check out our Pro Add-On."
+msgstr "需要进口？看看我们的专业插件。"
+
+msgid "Show Tags"
+msgstr "显示标签"
+
+msgid "This will enable filtering by tags."
+msgstr "这将通过标签启用过滤。"
+
+msgid "Make customized instances that can be used on different pages"
+msgstr "作出这样可以在不同的页面中使用自定义的情况下，"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Add Tag"
+msgstr "添加标签"
+
+msgid "Delete Selected Tags"
+msgstr "删除所选标签"
+
+msgid "Edit Tag"
+msgstr "编辑标签"
+
+msgid "No Tags Currently in Database"
+msgstr "没有标签目前在数据库"
+
+msgid "Name of Tag"
+msgstr "标签名称"
+
+msgid "All Types"
+msgstr "所有类型"
+
+msgid "Google Maps API Key"
+msgstr "谷歌地图API密钥"
+
+msgid "Show some love"
+msgstr "显示一些爱"
+
+msgid "Enable branding on front-end"
+msgstr "启用品牌在前端"
+
+msgid "Show me how"
+msgstr "告诉我如何"
+
+msgid "Enable filtering by tags."
+msgstr "通过启用过滤标签。"
+
+msgid "Map Callout Width"
+msgstr "地图标注宽度"
+
+msgid "Map Marker Color"
+msgstr "地图标记颜色"
+
+msgid "Map Callout Background"
+msgstr "地图呼出背景"
+
+msgid "Delete All Listings"
+msgstr "删除所有列表"
+
+msgid "Action"
+msgstr "行动"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Custom Font"
+msgstr "自定义字体"
+
+msgid "Marker InfoWindow Width"
+msgstr "标记InfoWindow宽度"
+
+msgid "Marker InfoWindow Background"
+msgstr "标记InfoWindow背景"
+
+msgid "Marker InfoWindow Text Color"
+msgstr "标记InfoWindow文本颜色"
+
+msgid "User Interface"
+msgstr "用户界面"
+
+msgid "Note:"
+msgstr "注意："
+
+msgid "You can use the controls on the map to change zoom, center, resize and then save to make effect. Additionally you can now change the size of the listings box and search box. To resize the boxes, you can drag the boxes using the right bottom corner or right corner."
+msgstr "您可以使用地图上的控件来更改缩放，中心，调整大小，然后保存以生效。 此外，您现在可以更改列表框和搜索框的大小。 要调整框的大小，您可以使用右下角或右角拖动框。"
+
+msgid "Search Box"
+msgstr "搜索框"
+
+msgid "Listings Box"
+msgstr "列表框"
+
+msgid "Map Zoom Level"
+msgstr "地图缩放级别"
+
+msgid "Map Width/Height"
+msgstr "地图宽度/高度"
+
+msgid "Map Center Point"
+msgstr "地图中心点"
+
+msgid "Browser's Current Location Lookup"
+msgstr "浏览器当前位置查找"
+
+msgid "Fixed Center Point"
+msgstr "固定中心点"
+
+msgid "Do you want to delete all listings?"
+msgstr "要删除所有列表吗？"
+
+msgid "Do you want to delete all Tags?"
+msgstr "要删除所有标签吗？"
+
+msgid "Delete All Tags"
+msgstr "删除所有标签"
+
+msgid "Latitude"
+msgstr "纬度"
+
+msgid "Longitude"
+msgstr "经度"
+
+msgid "Unable to find lattitude,longitude for this listing. Please set correct address."
+msgstr "无法找到这个列表的经度。 请设置正确的地址。"
+
+msgid "Enable Marker Clusterer"
+msgstr "启用标记聚类器"
+
+msgid "Enable showing Map with listing"
+msgstr "启用显示与列表的地图"
+
+msgid "Enable marker clusterer on the map."
+msgstr "在地图上启用标记聚类器。"
+
+msgid "Pixels"
+msgstr "像素"
+
+msgid "Do you want to delete this tag?"
+msgstr "要删除此标签吗？"
+
+msgid "Do you want to delete this listing?"
+msgstr "要删除此列表吗？"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Tag Color"
+msgstr "标签颜色"
+
+msgid "Pin Color"
+msgstr "针颜色"
+
+msgid "Tags/Pin"
+msgstr "标签/针"
+
+msgid "Custom Marker Pin"
+msgstr "自定义标记销"
+
+msgid "Need Custom Pins? Get the Pro-Add-On"
+msgstr "需要自定义引脚？ 获取Pro-Add-On"
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Remove"
+msgstr "去掉"
+
+msgid "Update Settings"
+msgstr "更新设置"
+
+msgid "Map Customizations"
+msgstr "地图自定义"
+
+msgid "Search Customizations"
+msgstr "搜索自定义"
+
+msgid "Listing Customizations"
+msgstr "列出自定义"
+
+msgid "Search Box Size"
+msgstr "搜索框大小"
+
+msgid "Listing Box Size"
+msgstr "列表框大小"
+
+msgid "Tags can be used to group your locations as well control the pin color that show on the map. Create as many tags as you like and then assign them to your listings."
+msgstr "标签可以用来分组您的位置，以及控制地图上显示的引脚颜色。 创建尽可能多的标签，然后将其分配到您的列表中。"
+
+msgid "Listings may also have multiple tags. If you like to have filtered map instances based on tags, check out our "
+msgstr "产品目录也可能有多个标签。 如果你喜欢基于标签过滤地图实例，请查看我们的"
+
+msgid "Delete Listing"
+msgstr "删除列表"
+
+msgid "Delete Tag"
+msgstr "删除标签"
+
+msgid "Need More Tools?"
+msgstr "需要更多的工具？"
+
+msgid "Custom Pins"
+msgstr "自定义引脚"
+
+msgid "Custom Instances"
+msgstr "自定义实例"
+
+msgid "Visitor Stats"
+msgstr "访客统计"
+
+msgid "VO Locator - Google Maps API Key Missing"
+msgstr "VO定位器 - Google地图API密钥丢失"
+
+msgid "As of June 22, 2016 Google Maps requires an API key to function properly."
+msgstr "截至2016年6月22日，Google地图需要使用API密钥才能正常运行。"
+
+msgid "Please visit here"
+msgstr "请访问这里"
+
+msgid "to set up a free Google Maps API key"
+msgstr "设置一个免费的Google Maps API密钥"
+
+msgid "Get Api Key"
+msgstr "获取Api密钥"
+
+msgid "Getting Started with VO Store Locator"
+msgstr "VO商店定位器入门"
+
+msgid "Google API Error"
+msgstr "Google API错误"
+
+msgid "You can use the above link to see more details or you can watch our Getting Started with VO Store Locator Video below"
+msgstr "您可以使用上述链接查看更多详细信息，或者您可以在下面观看我们的VO门店定位器视频入门"
+
+msgid "Add Listing & Close"
+msgstr "添加清单并关闭"
+
+msgid "Please enter name for the listing"
+msgstr "请为列表输入名称"
+
+msgid "Please enter name for the tag"
+msgstr "请输入标签的名称"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Search Box Placeholder Text"
+msgstr "搜索框占位符文本"
+
+msgid "Default Tags Filter"
+msgstr "默认标签过滤"
+
+msgid "This will enable filtering the listing by selected tag on front-end by default."
+msgstr "这样可以默认按前端的选定标记过滤列表。"
+
+msgid "Listings Loaded Per Request"
+msgstr "每个请求加载的列表"
+
+msgid "Search By: "
+msgstr "搜索方式："
+
+msgid "Select Field"
+msgstr "选择字段"
+
+msgid "Filter By Tags: "
+msgstr "按标签过滤："
+
+msgid "Select Tag"
+msgstr "选择标签"
+
+msgid "Leave A Review?"
+msgstr "留下评论？"
+
+msgid "We hope you've enjoyed using WordPress VO Store Locator! Would you consider leaving us a review on WordPress.org?"
+msgstr "我们希望您喜欢使用WordPress VO Store Locator！ 你会考虑在WordPress.org上留下评论吗？"
+
+msgid "Sure! I'd love to!"
+msgstr "当然！ 我喜欢！"
+
+msgid "I've already left a review"
+msgstr "我已经离开了评论"
+
+msgid "Never show again"
+msgstr "永不再显示"
+
+msgid "Custom Css"
+msgstr "自定义Css"

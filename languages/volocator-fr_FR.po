@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.8.8\n"
+
+msgid "Name of Listing"
+msgstr "Nom de la page"
+
+msgid "Add Listing"
+msgstr "Ajouter une annonce"
+
+msgid "Address (Street - Line1)"
+msgstr "Adresse (rue - Ligne 1)"
+
+msgid "Address (Street - Line2 - optional)"
+msgstr "Adresse (rue - Ligne 2 - en option)"
+
+msgid "City, State Zip"
+msgstr "Ville, État Code postal"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Street - Line1"
+msgstr "Street - Ligne 1"
+
+msgid "Street - Line 2 - optional"
+msgstr "Street - Ligne 2 - option"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "State"
+msgstr "État"
+
+msgid "Zip"
+msgstr "code postal"
+
+msgid "Share Address Publicly"
+msgstr "Partager Adresse publiquement"
+
+msgid "Additional Information"
+msgstr "Information additionnelle"
+
+msgid "Description"
+msgstr "La description"
+
+msgid "URL"
+msgstr "Hyperlien"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Image Upload"
+msgstr "image Télécharger"
+
+msgid "Hours"
+msgstr "Heures"
+
+msgid "Default Map Center <small>(Set one profile as your default map center to center the map on this location when it first loads. If no default is set, the first location will be used as the default.)"
+msgstr "Par défaut Carte Centre <small>(Définir un profil en tant que votre centre de la carte par défaut pour centrer la carte sur cet endroit lors de son premier charges. Si aucune valeur par défaut est le premier emplacement sera utilisé comme valeur par défaut.)"
+
+msgid "Locations"
+msgstr "Emplacements"
+
+msgid "Load More"
+msgstr "Charger plus"
+
+msgid "Go!"
+msgstr "Aller!"
+
+msgid "Show Map"
+msgstr "Montrer carte"
+
+msgid "Current Location"
+msgstr "Localisation actuelle"
+
+msgid "Enable Current Location Lookup on Load (Default Center)"
+msgstr "Activer emplacement actuel de recherche sur Load (Centre par défaut)"
+
+msgid "Search Box Heading Text"
+msgstr "Boîte de recherche Rubrique Texte"
+
+msgid "Listing Highlight Color"
+msgstr "Liste Highlight Couleur"
+
+msgid "Listing Text Color"
+msgstr "Listing Couleur du texte"
+
+msgid "Listing background Color"
+msgstr "Listing fond couleur"
+
+msgid "Listings"
+msgstr "Listes"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+msgid "Edit"
+msgstr "modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Delete Selected Listings"
+msgstr "Supprimer Annonces sélectionnés"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "To use this plugin within pages and posts you simply will have to insert this shortcode"
+msgstr "Pour utiliser ce plugin dans les pages et les messages que vous aurez tout simplement d'insérer ce shortcode"
+
+msgid "within your post/page content"
+msgstr "au sein de votre poste / contenu de la page"
+
+msgid "If you need to use this plugin in php code you will need to call php function as belows:"
+msgstr "Si vous avez besoin d'utiliser ce plugin dans le code php, vous devez appeler la fonction php comme belows:"
+
+msgid "Or else you can do as follows:"
+msgstr "Ou bien vous pouvez faire comme suit:"
+
+msgid "For more information please visit our website:"
+msgstr "Pour plus d'information, veuillez visiter notre site web:"
+
+msgid "Click Here"
+msgstr "Cliquez ici"
+
+msgid "Win VO Locator PRO"
+msgstr "Winco Locator PRO"
+
+msgid "Ask for Support"
+msgstr "Demandez soutien"
+
+msgid "Review Us"
+msgstr "Donnez votre avis sur nous"
+
+msgid "Distance in (Mi/Km)"
+msgstr "Distance à (Mi / Km)"
+
+msgid "Successful Addition"
+msgstr "Addition réussie"
+
+msgid "Unsucessful addition due to security check failure"
+msgstr "outre échoué en raison de l'échec de la vérification de la sécurité"
+
+msgid "Kilometers"
+msgstr "Kilometers"
+
+msgid "Miles"
+msgstr "miles"
+
+msgid "Actions"
+msgstr "actes"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Name"
+msgstr "prénom"
+
+msgid "Street"
+msgstr "rue"
+
+msgid "Street2"
+msgstr "Rue # 2"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Edit Listing"
+msgstr "Modifier Annonce"
+
+msgid "We have added regions within the settings page of the plugin. Please take a look at your settings for selecting appropriate region and save it."
+msgstr "Nous avons ajouté des régions au sein de la page des paramètres du plug-in. S'il vous plaît jeter un oeil à vos paramètres de sélection de la zone appropriée et enregistrez-le."
+
+msgid "General"
+msgstr "Général"
+
+msgid "Region"
+msgstr "Région"
+
+msgid "VO Locator Settings"
+msgstr "Réglages Locator VO"
+
+msgid "Learn more about Vital Organizer"
+msgstr "En savoir plus sur Organizer Vital"
+
+msgid "Enter address or zipcode"
+msgstr "Entrez l'adresse ou le code postal"
+
+msgid "Need More Customizations?"
+msgstr "Besoin Plus personnalisations?"
+
+msgid "Import/Export Listings"
+msgstr "Import / Export Listes"
+
+msgid "Full Map Customization with Drag and Drop Interface"
+msgstr "Carte Personnalisation complète avec Drag and drop interface"
+
+msgid "Too Many Markers! Get Cleaner Map with Marker Clusters with Improved Performance"
+msgstr "Trop de marqueurs! Obtenez Carte Cleaner avec marqueurs Clusters avec des performances améliorées"
+
+msgid "Grab Your PRO ADDON Now"
+msgstr "Prenez votre PRO ADDON maintenant"
+
+msgid "Update Multiple Listing Co-Ordinates in a Single Click"
+msgstr "Mise à jour de Multiple Listing Coordonnées en un seul clic"
+
+msgid "Need To Import? Check out our Pro Add-On."
+msgstr "Nécessité d'importer? Consultez notre Pro Add-On."
+
+msgid "Show Tags"
+msgstr "Afficher les tags"
+
+msgid "This will enable filtering by tags."
+msgstr "Cela permettra le filtrage par mots-clés."
+
+msgid "Make customized instances that can be used on different pages"
+msgstr "Faire des cas personnalisés qui peuvent être utilisés sur les différentes pages"
+
+msgid "Tags"
+msgstr "Mots clés"
+
+msgid "Add Tag"
+msgstr "Ajouter une étiquette"
+
+msgid "Delete Selected Tags"
+msgstr "Delete Tags sélectionnés"
+
+msgid "Edit Tag"
+msgstr "Modifier la balise"
+
+msgid "No Tags Currently in Database"
+msgstr "No Tags Actuellement Database"
+
+msgid "Name of Tag"
+msgstr "Nom de Tag"
+
+msgid "All Types"
+msgstr "Tous les types"
+
+msgid "Show some love"
+msgstr "Montrez un certain amour"
+
+msgid "Enable branding on front-end"
+msgstr "Activer l'impression sur front-end"
+
+msgid "Show me how"
+msgstr "Me montrer comment"
+
+msgid "Enable filtering by tags."
+msgstr "Activer le filtrage par mots clés."
+
+msgid "Show all listings"
+msgstr "Montrer tous les listings"
+
+msgid "Tags Filter Label"
+msgstr "Mots-filtre Étiquette"
+
+msgid "Select Tag"
+msgstr "Sélectionnez Tag"
+
+msgid "Select Tag(s)"
+msgstr "Sélectionnez Tag (s)"
+
+msgid "Get VO Locator PRO"
+msgstr "Obtenez VO Locator PRO"
+
+msgid "Map Callout Width"
+msgstr "Largeur de la légende de la carte"
+
+msgid "Map Marker Color"
+msgstr "Couleur du marqueur de carte"
+
+msgid "Map Callout Background"
+msgstr "Contexte Légende de la carte"
+
+msgid "Delete All Listings"
+msgstr "Supprimer toutes les offres"
+
+msgid "Action"
+msgstr "action"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Custom Font"
+msgstr "Police personnalisée"
+
+msgid "Marker InfoWindow Width"
+msgstr "Marker InfoWindow Largeur"
+
+msgid "Marker InfoWindow Background"
+msgstr "Informations sur Markker InfoWindow"
+
+msgid "Marker InfoWindow Text Color"
+msgstr "Marque de texte InfoWindow"
+
+msgid "User Interface"
+msgstr "Interface utilisateur"
+
+msgid "Note:"
+msgstr "Remarque:"
+
+msgid "You can use the controls on the map to change zoom, center, resize and then save to make effect. Additionally you can now change the size of the listings box and search box. To resize the boxes, you can drag the boxes using the right bottom corner or right corner."
+msgstr "Vous pouvez utiliser les contrôles sur la carte pour modifier le zoom, le centre, le redimensionnement, puis sauvegarder pour faire fonction. En outre, vous pouvez maintenant modifier la taille de la boîte de liste et la zone de recherche. Pour redimensionner les cases, vous pouvez faire glisser les cases en utilisant le coin inférieur droit ou le coin droit."
+
+msgid "Search Box"
+msgstr "Barre de recherche"
+
+msgid "Listings Box"
+msgstr "Listes Box"
+
+msgid "Map Zoom Level"
+msgstr "Niveau Niveau de Zoom"
+
+msgid "Map Width/Height"
+msgstr "Largeur / hauteur de carte"
+
+msgid "Map Center Point"
+msgstr "Map Center Point"
+
+msgid "Browser's Current Location Lookup"
+msgstr "Recherche de localisation actuelle du navigateur"
+
+msgid "Fixed Center Point"
+msgstr "Point central fixé"
+
+msgid "Do you want to delete all listings?"
+msgstr "Voulez-vous supprimer toutes les listes?"
+
+msgid "Do you want to delete all Tags?"
+msgstr "Voulez-vous supprimer toutes les balises?"
+
+msgid "Delete All Tags"
+msgstr "Supprimer toutes les balises"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Unable to find lattitude,longitude for this listing. Please set correct address."
+msgstr "Impossible de trouver lattitude, longitude pour cette liste. Configurez l'adresse correcte."
+
+msgid "Enable Marker Clusterer"
+msgstr "Activer Clusterer Marqueur"
+
+msgid "Google Maps API Key"
+msgstr "Clé de l'API Google Maps"
+
+msgid "Enable showing Map with listing"
+msgstr "Activer la présentation de la carte avec la liste"
+
+msgid "Enable marker clusterer on the map."
+msgstr "Activer le marqueur de marqueur sur la carte."
+
+msgid "Pixels"
+msgstr "Pixels"
+
+msgid "Do you want to delete this tag?"
+msgstr "Voulez-vous supprimer cette étiquette?"
+
+msgid "Do you want to delete this listing?"
+msgstr "Voulez-vous supprimer cette liste?"
+
+msgid "Color"
+msgstr "Couleur"
+
+msgid "Tag Color"
+msgstr "Couleur de tag"
+
+msgid "Pin Color"
+msgstr "Couleur de broche"
+
+msgid "Tags/Pin"
+msgstr "Tags / Pin"
+
+msgid "Custom Marker Pin"
+msgstr "Broche de marqueur personnalisée"
+
+msgid "Need Custom Pins? Get the Pro-Add-On"
+msgstr "Besoin de broches personnalisées? Obtenez le Pro-Add-On"
+
+msgid "Upload"
+msgstr "Télécharger"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Update Settings"
+msgstr "Mettre à jour les paramètres"
+
+msgid "Map Customizations"
+msgstr "Personnalisations de carte"
+
+msgid "Search Customizations"
+msgstr "Rechercher des personnalisations"
+
+msgid "Listing Customizations"
+msgstr "Liste des personnalisations"
+
+msgid "Search Box Size"
+msgstr "Taille de la boîte de recherche"
+
+msgid "Listing Box Size"
+msgstr "Taille de la boîte"
+
+msgid "Tags can be used to group your locations as well control the pin color that show on the map. Create as many tags as you like and then assign them to your listings."
+msgstr "Les étiquettes peuvent être utilisées pour regrouper vos emplacements et contrôler la couleur des épingles qui s'affichent sur la carte. Créez autant de tags que vous le souhaitez, puis assignez-les à vos listes."
+
+msgid "Listings may also have multiple tags. If you like to have filtered map instances based on tags, check out our "
+msgstr "Les listes peuvent également avoir plusieurs tags. Si vous souhaitez avoir des instances de carte filtrées basées sur des tags, consultez notre"
+
+msgid "Delete Listing"
+msgstr "Supprimer la liste"
+
+msgid "Delete Tag"
+msgstr "Supprimer le tag"
+
+msgid "Need More Tools?"
+msgstr "Besoin de plus d'outils?"
+
+msgid "Custom Pins"
+msgstr "Broches personnalisées"
+
+msgid "Custom Instances"
+msgstr "Instances personnalisées"
+
+msgid "Visitor Stats"
+msgstr "Statistiques des visiteurs"
+
+msgid "VO Locator - Google Maps API Key Missing"
+msgstr "VO Locator - Clé de l'API Google Maps manquante"
+
+msgid "As of June 22, 2016 Google Maps requires an API key to function properly."
+msgstr "Depuis le 22 juin 2016, Google Maps nécessite une clé API pour fonctionner correctement."
+
+msgid "Please visit here"
+msgstr "S'il vous plaît visitez ici"
+
+msgid "to set up a free Google Maps API key"
+msgstr "pour configurer une clé API Google Maps gratuite"
+
+msgid "Get Api Key"
+msgstr "Obtenir la clé Api"
+
+msgid "Getting Started with VO Store Locator"
+msgstr "Premiers pas avec VO Store Locator"
+
+msgid "Google API Error"
+msgstr "Erreur de l'API Google"
+
+msgid "You can use the above link to see more details or you can watch our Getting Started with VO Store Locator Video below"
+msgstr "Vous pouvez utiliser le lien ci-dessus pour voir plus de détails ou vous pouvez regarder notre vidéo de démarrage de VO Store Locator ci-dessous"
+
+msgid "Add Listing & Close"
+msgstr "Ajouter une annonce et fermer"
+
+msgid "Please enter name for the listing"
+msgstr "S'il vous plaît entrer le nom de la liste"
+
+msgid "Please enter name for the tag"
+msgstr "Veuillez entrer le nom du tag"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Search Box Placeholder Text"
+msgstr "Texte d'espace réservé pour la zone de recherche"
+
+msgid "Default Tags Filter"
+msgstr "Filtre d'étiquettes par défaut"
+
+msgid "This will enable filtering the listing by selected tag on front-end by default."
+msgstr "Cela activera le filtrage de la liste par balise sélectionnée sur le front-end par défaut."
+
+msgid "Listings Loaded Per Request"
+msgstr "Listes chargées à la demande"
+
+msgid "Search By: "
+msgstr "Recherché par:"
+
+msgid "Select Field"
+msgstr "Sélectionner un champ"
+
+msgid "Filter By Tags: "
+msgstr "Filtrer par tags:"
+
+msgid "Leave A Review?"
+msgstr "Laisser un commentaire?"
+
+msgid "We hope you've enjoyed using WordPress VO Store Locator! Would you consider leaving us a review on WordPress.org?"
+msgstr "Nous espérons que vous avez apprécié utiliser WordPress VO Store Locator! Souhaitez-vous envisager de nous laisser un commentaire sur WordPress.org?"
+
+msgid "Sure! I'd love to!"
+msgstr "Sûr! J'adorerais!"
+
+msgid "I've already left a review"
+msgstr "J'ai déjà laissé un commentaire"
+
+msgid "Never show again"
+msgstr "Ne plus afficher"
+
+msgid "Custom Css"
+msgstr "CSS personnalisé"

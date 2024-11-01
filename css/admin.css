@@ -1,0 +1,358 @@
+/*##################################
+	Top Navigation Tabs
+####################################*/
+
+.wp-core-ui .button-red {
+	background-color: #9B2124;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#C5292E), to(#9B2124));
+	background-image: -webkit-linear-gradient(top, #C5292E, #9B2124);
+	background-image:    -moz-linear-gradient(top, #C5292E, #9B2124);
+	background-image:     -ms-linear-gradient(top, #C5292E, #9B2124);
+	background-image:      -o-linear-gradient(top, #C5292E, #9B2124);
+	background-image:   linear-gradient(to bottom, #C5292E, #9B2124);
+	border-color: #9B2124;
+	border-bottom-color: #8D1F21;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,0.5);
+ 	box-shadow: inset 0 1px 0 rgba(120,200,230,0.5);
+ 	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+
+.wp-core-ui .button-red.hover,
+.wp-core-ui .button-red:hover,
+.wp-core-ui .button-red.focus,
+.wp-core-ui .button-red:focus {
+	background-color: #B72629;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#D22E30), to(#9B2124));
+	background-image: -webkit-linear-gradient(top, #D22E30, #9B2124);
+	background-image:    -moz-linear-gradient(top, #D22E30, #9B2124);
+	background-image:     -ms-linear-gradient(top, #D22E30, #9B2124);
+	background-image:      -o-linear-gradient(top, #D22E30, #9B2124);
+	background-image:   linear-gradient(to bottom, #D22E30, #9B2124);
+	border-color: #7F1C1F;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,0.6);
+ 	box-shadow: inset 0 1px 0 rgba(120,200,230,0.6);
+	color: #fff;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+}
+
+.wp-core-ui .button-red.focus,
+.wp-core-ui .button-red:focus {
+	border-color: #500F0E;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,0.6), 1px 1px 2px rgba(0,0,0,0.4);
+	box-shadow: inset 0 1px 0 rgba(120,200,230,0.6), 1px 1px 2px rgba(0,0,0,0.4);
+}
+
+.wp-core-ui .button-red.active,
+.wp-core-ui .button-red.active:hover,
+.wp-core-ui .button-red.active:focus,
+.wp-core-ui .button-red:active {
+	background: #7F1C1F;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#9B2124), to(#B72629));
+	background-image: -webkit-linear-gradient(top, #9B2124, #B72629);
+	background-image:    -moz-linear-gradient(top, #9B2124, #B72629);
+	background-image:     -ms-linear-gradient(top, #9B2124, #B72629);
+	background-image:      -o-linear-gradient(top, #9B2124, #B72629);
+	background-image:   linear-gradient(to bottom, #9B2124, #B72629);
+	border-color: #601312 #AE2426 #AE2426 #AE2426;
+	color: rgba(255,255,255,0.95);
+	-webkit-box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+ 	box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+
+.wp-core-ui .button-red[disabled],
+.wp-core-ui .button-red:disabled,
+.wp-core-ui .button-red-disabled {
+	color: #E79496 !important;
+	background: #BA292B !important;
+	border-color: #7F1C1F !important;
+	-webkit-box-shadow: none !important;
+	box-shadow:         none !important;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.1) !important;
+	cursor: default;
+}
+
+.wp-core-ui .button-red{
+	
+	display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;	
+}
+
+/***********************Green Button****************************/
+
+.wp-core-ui .vosl-button-green {
+	background-color: #25a807;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#25a807), to(#2ac307));
+	background-image: -webkit-linear-gradient(top, #25a807, #2ac307);
+	background-image:    -moz-linear-gradient(top, #25a807, #2ac307);
+	background-image:     -ms-linear-gradient(top, #25a807, #2ac307);
+	background-image:      -o-linear-gradient(top, #25a807, #2ac307);
+	background-image:   linear-gradient(to bottom, #25a807, #2ac307);
+	border-color: #1d7509;
+	border-bottom-color: #1d7509;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,0.5);
+ 	box-shadow: inset 0 1px 0 rgba(120,200,230,0.5);
+ 	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+
+.wp-core-ui .vosl-button-green.hover,
+.wp-core-ui .vosl-button-green:hover,
+.wp-core-ui .vosl-button-green.focus,
+.wp-core-ui .vosl-button-green:focus {
+	background-color: #25a807;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#25a807), to(#2ac307));
+	background-image: -webkit-linear-gradient(top, #25a807, #2ac307);
+	background-image:    -moz-linear-gradient(top, #25a807, #2ac307);
+	background-image:     -ms-linear-gradient(top, #25a807, #2ac307);
+	background-image:      -o-linear-gradient(top, #25a807, #2ac307);
+	background-image:   linear-gradient(to bottom, #25a807, #2ac307);
+	border-color: #25a807;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,0.6);
+ 	box-shadow: inset 0 1px 0 rgba(120,200,230,0.6);
+	color: #fff;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.3);
+}
+
+.wp-core-ui .vosl-button-green.focus,
+.wp-core-ui .vosl-button-green:focus {
+	border-color: #1d7509;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,0.6), 1px 1px 2px rgba(0,0,0,0.4);
+	box-shadow: inset 0 1px 0 rgba(120,200,230,0.6), 1px 1px 2px rgba(0,0,0,0.4);
+}
+
+.wp-core-ui .vosl-button-green.active,
+.wp-core-ui .vosl-button-green.active:hover,
+.wp-core-ui .vosl-button-green.active:focus,
+.wp-core-ui .vosl-button-green:active {
+	background: #25a807;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#25a807), to(#2ac307));
+	background-image: -webkit-linear-gradient(top, #25a807, #2ac307);
+	background-image:    -moz-linear-gradient(top, #25a807, #2ac307);
+	background-image:     -ms-linear-gradient(top, #25a807, #2ac307);
+	background-image:      -o-linear-gradient(top, #25a807, #2ac307);
+	background-image:   linear-gradient(to bottom, #25a807, #2ac307);
+	border-color: #601312 #AE2426 #AE2426 #AE2426;
+	color: rgba(255,255,255,0.95);
+	-webkit-box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+ 	box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
+	text-shadow: 0 1px 0 rgba(0,0,0,0.1);
+}
+
+.wp-core-ui .vosl-button-green[disabled],
+.wp-core-ui .vosl-button-green:disabled,
+.wp-core-ui .vosl-button-green-disabled {
+	color: #E79496 !important;
+	background: #25a807 !important;
+	border-color: #1d7509 !important;
+	-webkit-box-shadow: none !important;
+	box-shadow:         none !important;
+	text-shadow: 0 -1px 0 rgba(0,0,0,0.1) !important;
+	cursor: default;
+}
+
+.wp-core-ui .vosl-button-green{
+	
+	display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;	
+}
+
+/**************************************************************/
+
+/*##################################
+	Top Navigation Tabs
+####################################*/
+
+/*##################################
+	General
+####################################*/
+#vosl_manage_listings_dt_filter, #vosl_manage_tags_dt_filter{ float:left; }
+#vosl_manage_listings_dt_length, #vosl_manage_tags_dt_length{ display:none; }
+#vosl_manage_listings_dt_wrapper .dataTables_length, #vosl_manage_tags_dt_wrapper, .dataTables_length{ margin-top:10px; }
+#vosl_manage_listings_dt_wrapper tr, #vosl_manage_instances_dt_wrapper tr, #vosl_manage_tags_dt_wrapper tr, #vosl_manage_fields_dt_wrapper tr{ cursor:pointer; }
+#vosl_manage_listings_dt_filter, #vosl_manage_tags_dt_filter{ margin-bottom:10px; }
+/*#vosl_manage_listings_dt_filter, #vosl_manage_tags_dt_filter{ display:none; }*/
+.vosllogo{ float:left; }
+.voslpromotelink{ background:#FFFFFF;padding: 6px 10px;font-size:14px; float:right;color: #008EC2;font-weight: bold;margin-left: 15px;border: 1px solid #cccccc; }
+.voslpromotelink a{ text-decoration:none; }
+#vosl_manage_listings_dt_wrapper thead tr, #vosl_manage_listings_dt_wrapper tfoot tr, #vosl_manage_tags_dt thead tr, #vosl_manage_tags_dt tfoot tr{ background:#0073aa; color:#FFFFFF;}
+#vosl_manage_listings_dt_wrapper tr td, #vosl_manage_tags_dt tr td{ text-align:center;}
+#vosl_manage_listings_dt_wrapper, #vosl_manage_tags_dt_length{ margin-bottom:5px; }
+.vosl_admin_listing_delete, .vosl_admin_listing_edit, .vosl_admin_tags_listing_delete, .vosl_admin_tags_listing_edit{ text-decoration:none; cursor:pointer; }
+.vosl_row_highlight{ background:#ff9c9c !important; }
+.fa-exclamation-triangle.text-yellow{ color:#FDEC00; } 
+#vosl_manage_listings_dt_wrapper .dataTables_scrollFoot{ display:none; }
+i.mce-i-vosl-custom-mce-button {
+  background: url('../images/logo.ico.png'); width:21px !important; height:21px !important;
+}
+#vosl_admin_add_edit_listing_img{width:110px; height:110px; border:1px solid #e1e1e1; margin-top:15px;}
+#vosl_admin_add_edit_listing_img img{ padding:5px; width:100px;}
+.vosl_default_hidden_img{ display:none; }
+.vosladmintab .nav-tab-active, .vosladmintab .nav-tab-active:focus, .vosladmintab .nav-tab-active:focus:active, .vosladmintab .nav-tab-active:hover{ border-bottom:1px solid #FFFFFF; background:#FFFFFF; }
+/*Options Settings*/
+.vosl-menu-general, .vosl-menu-documentation, .vosl-menu-map-customizations, .vosl-menu-search-customizations, .vosl-menu-listing-customizations{ background:#FFFFFF; padding-left:10px; padding-top:10px; padding-bottom:5px; border-left:1px solid #cccccc; border-right:1px solid #cccccc; border-bottom:1px solid #cccccc; }
+.vosl-menu-ui{ display:none; }
+.vosl_map_stats{ clear:both; display:inline-block; margin:10px 0; }
+.vosl_map_stats div{ margin-bottom:5px;}
+#vosl_sample_preview{ display:inline-block; font-size:20px; }
+body.vosl_loading .voslmodal {
+    display: block;
+}
+.voslmodal {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('../images/loading.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+#vosl-add-edit-listing-map-admin{ width:420px; height:200px; margin-top:5px; }
+.vosl-error{ color:#FF0000; }
+
+@media screen and (max-width: 1028px) {
+	.vosl-add-edit-list.right, .vosl-add-edit-list.left{ float:left; width:100% !important; }
+	.vosl-add-edit-list.right select{ height:auto !important; }
+	.vosl-add-edit-list.right .vosl-tags-table{ margin-left:30px !important; }
+}
+
+@media screen and (max-width: 768px) {
+	.vosl-add-edit-list.right, .vosl-add-edit-list.left{ float:left; width:100%; }
+	.vosl-add-edit-list.right select{ height:auto; }
+	.vosl-add-edit-list.right .vosl-tags-table{ margin-left:30px !important; }
+}
+/*Options Settings*/
+/*##################################
+	General
+####################################*/
+
+/*##################################
+	Deactivate Popup
+####################################*/
+.vosl-vosl-reasons:nth-child(3) {
+  display: none;
+}
+
+.vosl-opacity{
+	position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 9999;
+    background: #000;
+    opacity: 0.5;
+	display: none;
+}
+
+.vosl-deactivate-popup{
+	position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: #fff;
+    z-index: 999999;
+    width: 600px;
+    height: 281px;
+    margin: auto;
+	display: none;
+	box-sizing: border-box;
+}
+
+
+.vosl-deactivate-popup-header{
+	border-bottom: 1px solid #ccc;
+    padding: 18px 40px;
+    font-size: 16px;
+    background: rgba(221, 221, 221, 0.14);	
+}
+.vosl-deactivate-popup-body{
+	padding: 20px 40px;
+	border-bottom: 1px solid #ccc;	
+}
+.vosl-deactivate-popup-body input[type=text]{
+	width: 220px;
+}
+.vosl-deactivate-popup-body textarea{
+    width: 100%;
+}
+   
+.vosl-btns{
+    position: absolute;
+    bottom: 19px;
+    right: 19px	
+}
+
+.additional_details_wrap{
+	margin-top: 20px;
+}
+
+.vosl-additional-active{
+	background: rgba(204, 204, 204, 0.18);
+    padding: 15px;
+	margin: 14px 0px 5px;
+}
+.vosl-popup-active1{
+	height: 523px !important;
+}
+
+.vosl-popup-active2{
+	height: 426px !important
+}
+.vosl-deactivate-popup-opacity{
+    width: 100%;
+    height: 100%;
+    background: #D9D9D9;
+    opacity: 0.3;
+    z-index: 45;
+    position: absolute;
+    display: none;
+}
+
+/*##################################
+	Deactivate Popup
+####################################*/
+
+.search_filter{ float:left; width:100%; margin-top:5px; }
+.vosl_fields_filter{ float:left; }
+.search_filter .tags_filter{ float:right; }
+.vosl-admin-notice{ width:95%; }

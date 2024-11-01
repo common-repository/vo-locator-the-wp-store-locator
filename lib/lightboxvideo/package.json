@@ -1,0 +1,56 @@
+{
+  "name": "video-lightning",
+  "title": "Video Lightning",
+  "version": "3.0.9",
+  "description": "Turn any element into a lightbox or popover link for Youtube and Vimeo videos.",
+  "keywords": [
+    "jquery",
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "video",
+    "lightning",
+    "lightbox",
+    "popover",
+    "popup",
+    "youtube",
+    "vimeo",
+    "api",
+    "rick",
+    "roll",
+    "rickroll",
+    "hover",
+    "preview",
+    "iframe"
+  ],
+  "author": "Andrew Carpenter @ Musocrat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musocrat/jquery-video-lightning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/musocrat/jquery-video-lightning/issues",
+    "email": "info@musocrat.com"
+  },
+  "homepage": "https://github.com/musocrat/jquery-video-lightning/",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-cli": "~1.2.0",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-uglify": "~3.3.0",
+    "grunt-contrib-coffee": "~1.0.0",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-mocha": "~1.0.4",
+    "should": "~13.2.1"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose",
+    "start": "grunt default"
+  },
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
